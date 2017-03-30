@@ -1,0 +1,195 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.logo h1 {
+  margin-left: 40px;
+  float: left;
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  letter-spacing: 3px;
+  color: #302D42;
+}
+  
+.header_nav {
+  background-color: #F9C1BB;
+  height:80px; 
+  margin: auto;
+}
+
+.nav {
+  float: right;
+}
+
+.nav li {
+  margin-right: 40px;
+  margin-left: 40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  text-decoration: none;
+  color: #302D42;
+  padding: 20px;
+  text-align: right;
+}
+
+.ABC123 {
+  background: url(http://www.stickymonsterlab.com/wordpress/wp-content/uploads/2013/05/2014_feb_wallpaper.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+.main {
+  position: relative;
+  text-align: center;
+}
+
+.ABC123 .container {
+  margin: 0 auto;
+}
+
+.section .container {
+  margin-top: 50px;
+}
+
+.main h1 {
+  color: white;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  margin-top: 0;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+}
+
+.menu01 {
+  background: url(http://www.stickymonsterlab.com/wordpress/wp-content/uploads/2013/05/2013_nov_wallpaper.jpg) no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  float:left;
+}
+
+.menu01 h1 {
+  color: #302D42;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 45px;
+  margin-top: 150px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+ font-family: Montserrat, sans-serif;
+ font-weight: 400;
+ font-size: 18px; 
+}
+
+.menu02 {
+  background: url(http://www.stickymonsterlab.com/wordpress/wp-content/uploads/2013/05/2013_nov_wallpaper.jpg) no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  float:left;
+  margin:0 30px;
+}
+
+.menu02 h2 {
+  color: #302D42;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 45px;
+  margin-top: 150px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.menu03 {
+  background: url(http://www.stickymonsterlab.com/wordpress/wp-content/uploads/2013/05/2013_nov_wallpaper.jpg) no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  float:left;
+
+
+}
+
+.menu03 h3 {
+  color: #302D42;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 45px;
+  margin-top: 150px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.section {
+  height: 700px;
+}
+
+.footer {
+  background-color: #1b1a1f;
+}
+
+.footer_container { 
+  padding: 60px 80px;
+}
+
+.menu01 p .menu02 p .menu03 p {
+  color: black;
+  font-family: Montserrat, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  text-align: center;
+}
+  
+.contents p {
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 12px;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.button01 {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 4px 6px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.button02 {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 4px 6px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: black;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
